@@ -5,6 +5,7 @@
         "*.wxml": "html",
         "*.wxss": "css",
         "map": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "ostream": "cpp"
     }
 }
